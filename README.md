@@ -1,4 +1,4 @@
-Title: OptimizingMovie Recommendations UsingMulti-Armed Bandits
+--Optimizing Movie Recommendations UsingMulti-Armed Bandits--
 
 Background: In the world of online streaming, user satisfaction and engagement are critical
 metrics for the success of a movie recommendation system. A well-designed
